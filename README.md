@@ -1,6 +1,10 @@
 Authors: Mia Penfold and John Reese
+
 Stanford Univeristy
+
 Winter 23-24
+
+
 
 Code Repertoire for CS131 Final Project
 
